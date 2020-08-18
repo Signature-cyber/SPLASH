@@ -1,0 +1,2 @@
+figlet -f standard INFINITY | lolcat 
+

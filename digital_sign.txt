@@ -1,0 +1,5 @@
+#########################################################
+
+figlet -f digital "    CYBER-SIGNATURE" | lolcat 
+
+echo ""
