@@ -5,8 +5,8 @@ Splash is a tool that let's you modify the old boring look of termux with User f
 pkg update 
 pkg upgrade 
 pkg install git -y
-git clone https://github.com/Signature-cyber/SPLASH
-
+git clone 
+https://github.com/Signature-cyber/SPLASH
 cd SPLASH
 bash SPLASH.sh
 
